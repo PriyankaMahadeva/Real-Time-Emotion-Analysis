@@ -1,2 +1,6 @@
-# ai-facial-emotion-detection
-This project utilizes deep learning techniques to detect and classify facial emotions in real-time. By employing convolutional neural networks (CNNs), the system analyzes facial expressions from images or video streams, enabling applications in areas like mental health monitoring, user experience enhancement, and interactive AI.
+# Real-Time-Emotion-Analysis
+
+This project employs advanced deep learning techniques to detect and classify facial emotions in real time. Utilizing Convolutional Neural Networks (CNNs), the system processes facial expressions from images and video streams. This enables various applications, including mental health monitoring, enhancing user experience, and creating interactive AI systems.
+
+## Requirements
+- Python version: **3.8**
